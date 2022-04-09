@@ -41,7 +41,11 @@ Puis , on ajoute la notion Qualifier dans le fichier IMetier.java qui prmmet d'i
 
 Et finalement , on a fait l'injection par constructeur :
 
-![image](https://user-images.githubusercontent.com/102295113/162550311-3109d229-0b47-4e51-af28-d536fe037af0.png)
+![image](https://user-images.githubusercontent.com/102295113/162550591-1ffb90e4-6e6b-4f55-b5d2-26137a615b8c.png)
+
+Apres l'execution de ce code on obtient le resultat suivant: 
+![image](https://user-images.githubusercontent.com/102295113/162550635-ae3276a6-577d-43b8-84f7-05c69b747a97.png)
+
 
 
 
