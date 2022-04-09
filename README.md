@@ -10,13 +10,11 @@ Apres on a crée le fichier de configaration XML:
 
 - Apres l'execution de ce code on obtient le resultat suivant:
 
-![image](https://user-images.githubusercontent.com/102295113/162549593-1b1ee040-377e-4ee9-bad0-b3689131c6a9.png)
-
-
-
-- Pour appelé l'implémentation du la version du base de donnees il suffit de remplace la classe dao.DaoImpl par la classe ext.DaoImplVWS dans le fichier applicationContext.xml et on obtient le resultat suivant:
-
 ![image](https://user-images.githubusercontent.com/102295113/162549639-15fb0eaa-c07c-4c0a-8a04-bed734552f81.png)
+
+- Pour appelé l'implémentation du la version du base de donnees il suffit de remplace la classe ext.DaoImplVWS par la classe dao.DaoImpl dans le fichier applicationContext.xml et on obtient le resultat suivant:
+
+![image](https://user-images.githubusercontent.com/102295113/162549593-1b1ee040-377e-4ee9-bad0-b3689131c6a9.png)
 
 - Pour appelé l'implémentation du la version de capteur il suffit de remplace la classe dao.DaoImpl par la classe dao.DaoImp2 dans le fichier applicationContext.xml et on obtient le resultat suivant:
 
