@@ -18,12 +18,13 @@ Apres on a crée le fichier de configaration XML:
 
 - Pour appelé l'implémentation du la version de capteur il suffit de remplace la classe dao.DaoImpl par la classe dao.DaoImp2 dans le fichier applicationContext.xml et on obtient le resultat suivant:
 
-![image](https://user-images.githubusercontent.com/102295113/162549795-54212a72-09c1-4658-9962-81db97f4db5d.png)
+![image](https://user-images.githubusercontent.com/102295113/162550501-9c84f1e3-a936-40a9-8303-9b381014c39a.png)
+
 
 2- Partie 2:
 Dans cette partie en a fait l'injection des dépendance utilisant spring Annotation :
 
-![image](https://user-images.githubusercontent.com/102295113/162550153-66829801-1d77-462b-aebe-e13388abf7f2.png)
+![image](https://user-images.githubusercontent.com/102295113/162550473-da3c95f9-2cc9-4ae8-b1a4-b0e983e9f064.png)
 
 -  Apres l'execution de ce code on obtient le resultat suivant:
 
